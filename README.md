@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Wagner
 ### Seja Bem Vindo...
 
-- 🏦Trabalho atualmente na area de operações de um grande banco
+- 🏦Trabalho atualmente na área de Operações
 - 👩‍💻Graduado em Engenharia da Computação.
 - 🧑🏽‍💻Me especializando como Desenvolvedor Front-End e Back-End
 - 🎲Estudando banco de dados - MySQL e Oracle
