@@ -3,7 +3,7 @@
 
 - 🏦Trabalho atualmente na área de Operações
 - 👩‍💻Graduado em Engenharia da Computação.
-- 🧑🏽‍💻Me especializando como Desenvolvedor Front-End e Back-End
+- 🧑🏽‍💻Me especializando em Front-End e Back-End
 - 🎲Estudando banco de dados - MySQL e Oracle
 
 <div align="center">
