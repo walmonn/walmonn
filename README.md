@@ -2,7 +2,7 @@
 
 
 - 🎓 Formado em Engenharia da Computação - MBA em Gestão Empresarial, Pessoas e Negociação. 
-- 🔭 Hoje eu trabalho na área de operações da Empresa Tecnologia Bancária.
+- 🔭 Hoje eu trabalho na área de operações da Empresa Tecnologia Bancária S/A.
 - 🌱 Estudando Java, Python, JavaScript e Cyber Security.
 - 😄 Pronouns: ele/dele.
   
