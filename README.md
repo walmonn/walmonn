@@ -1,7 +1,7 @@
 <h1> 🖖Olá! Eu sou o Wagner, seja bem vindo ao meu github! </h1>
 
 
-- 🎓 Formado em Engenharia da Computação - MBA em Gestão Empresarial, Pessoas e Negociação. 
+- 🎓 Formado em Engenharia da Computação - MBA em Gestão Empresarial | Pessoas | Liderança | Negociação. 
 - 🔭 Hoje eu trabalho na área de operações da Empresa Tecnologia Bancária S/A.
 - 🌱 Estudando Java, Python, JavaScript e Cyber Security.
 - 😄 Pronouns: ele/dele.
