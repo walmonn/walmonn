@@ -2,9 +2,9 @@
 
 
 - 🎓 Formado em Engenharia da Computação - MBA em Gestão Empresarial | Pessoas | Liderança | Negociação. 
-- 🔭 Hoje eu trabalho na área de operações da Empresa Tecnologia Bancária S/A.
-- 🌱 Estudando Java, Python, JavaScript e Cyber Security.
-- 😄 Pronouns: ele/dele.
+- 🔭 Hoje eu trabalho como Técnicos de Redes na Vivo Vita.
+- 🌱 Estudando Python, Redes e Cyber Security.
+  
   
 
 
