@@ -3,7 +3,7 @@
 
 - 🎓 Formado em Engenharia da Computação - MBA em Gestão Empresarial | Pessoas | Liderança | Negociação. 
 - 🔭 Hoje eu trabalho como Analista de Redes na Vivo Vita.
-- 🌱 Estudando Python, Redes e Cyber Security.
+- 🌱 Estudando Python, Java, Redes e Cybersecurity.
   
   
 
